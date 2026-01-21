@@ -21,7 +21,9 @@
 
     background-color: grey;
     border-radius: 10px;
-
+    justify-content: center;
+    align-items: center;
+    display: flex;
 }
 
 .output {
@@ -34,6 +36,10 @@
 body {
     display: flex;
     justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 540;
+    font-size: 20px;
+
 }
 
 
